@@ -1,8 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "testing": [
+    { "testing1": "HELLO", "testing2": "WORLD", "newImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTur2Ft3f21GPx6JW-SEchvlAhjuD_tS5lyjY_VX13bnaqdwae&usqp=CAU" }
   ],
   "get":
     { "text1": "HELLO", "text2": "WORLD", "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaKgqHHa4x9lhlgvE_OtGiCFVucW1uSwwcVrPYP4CmIvBW5-G2&usqp=CAU" }
