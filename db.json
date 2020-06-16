@@ -1,7 +1,7 @@
 {
   "testing": {
-    "testing1": "HELLO",
-    "testing2": "WORLD",
+    "text1": "TRAININ HELLO",
+    "text2": "TRAININ WORLD",
     "newImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTur2Ft3f21GPx6JW-SEchvlAhjuD_tS5lyjY_VX13bnaqdwae&usqp=CAU"
   },
   "get": {
